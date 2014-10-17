@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msy:home|Door43 (msy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msy|d43-msy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msy/archive/master.zip|d43-msy.zip]]
+
+**Recent Changes**
+{{changes>ns = msy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msy|Ethnologue data]]
+
